@@ -1,0 +1,10 @@
+{
+  "name": "Cross-Device File Share",
+  "description": "An instant, high-speed file sharing tool to transfer files and folders between PC and mobile devices without network limits using QR codes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
